@@ -27,10 +27,15 @@
   <h1>Feliz Dia dos Pais!</h1>
   <img src="IMG_5092.jpeg" alt="Foto especial">
   <div class="mensagem">
-    Pai, você é a raiz forte e segura que sustenta minha vida.<br><br>
-    Que neste dia dos pais você se sinta amado e reconhecido por tudo o que é e representa.<br><br>
-    Com todo carinho,<br>
-    da sua filha, Débora.
+    Feliz Dia dos Pais!
+Pai, esse é um pequeno gesto para lembrar o quanto você é importante na minha vida.<br> 
+    <br>
+Obrigado por cada conselho, por cada exemplo, por estar sempre ao meu lado.
+Esse relógio é só um presente… Mas o tempo que passamos juntos é o que eu mais valorizo.
+<br>
+Te amo! ❤️ <br>
+    <br>
+Com carinho,Débora.
   </div>
 </body>
 </html>
