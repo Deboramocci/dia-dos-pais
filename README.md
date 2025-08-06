@@ -30,12 +30,13 @@
     Feliz Dia dos Pais!
 Pai, esse é um pequeno gesto para lembrar o quanto você é importante na minha vida.<br> 
     <br>
-Obrigado por cada conselho, por cada exemplo, por estar sempre ao meu lado.
+Obrigado por cada conselho, por cada exemplo, por estar sempre ao meu lado. <br>
+    <br>
 Esse relógio é só um presente… Mas o tempo que passamos juntos é o que eu mais valorizo.
 <br>
 Te amo! ❤️ <br>
     <br>
-Com carinho,Débora.
+Com carinho,Débora ❤️❤️.
   </div>
 </body>
 </html>
